@@ -1,43 +1,46 @@
-Week 3: 🔎 Static Testing Technologies 
+Sure! Here’s the revised version of your assignment following the template you provided. I've updated the learning objectives to align with the focus on static testing techniques:
 
-🎯 Learning Objectives
+---
 
-✅ Understand the concept of static testing and its importance in software development.
-🔍 Differentiate between walkthroughs, technical reviews, and inspections and how they improve code quality.
-🛠️ Explore static analysis tools and their role in detecting defects early.
+# 📝 Assignment: Static Testing Techniques
 
+## 🎯 Learning Objectives  
+- Understand the concept and importance of static testing in software development.  
+- Differentiate between walkthroughs, technical reviews, and inspections in the context of static testing.  
+- Explore how static analysis tools contribute to software quality.  
+- Identify key benefits of using static analysis tools in software development.  
+- Recognize popular static analysis tools and their features.
 
-     📋 What You'll Need
-💻 A computer with internet access.
-✍️ A text editor (e.g., Visual Studio Code).
-🖥️ Any static analysis tool of your choice (e.g., SonarQube, ESLint).
+---
 
-       📝 Submission Instructions
-📂 Navigate to the repository and locate the answers.md file.
-🖋️ Write your answers directly in answers.md, ensuring clarity and completeness.
-🔄 Review your work before submission.
-📤 Push your changes to the repository.
+## 📋 What You'll Need  
+💻 A computer with internet access.  
+📝 A text editor (e.g., Visual Studio Code, Sublime Text).  
+📚 Basic knowledge of static testing and software development concepts.  
 
+---
 
-         📚 Assignment Questions
-      1️⃣ What is Static Testing? 🧐
-      👉 Explain static testing in your own words and why it’s an essential part of software development.
-      💡 Can you think of real-world scenarios where static testing prevents major issues?
+## 📝 Submission Instructions  
+📂 Write all your answers in **answers.md** file.  
+✍️ Answer each question concisely and provide examples where applicable.  
+🗣️ Structure your responses clearly, using headings and bullet points for readability.  
 
-      2️⃣ Spot the Difference! 🕵️‍♂️
-      🚀 Walkthroughs, Technical Reviews, and Inspections are all key parts of static testing, but how do they differ?
-      🔄 Describe each one and explain how they contribute to improving software quality.
+---
 
-      3️⃣ Static Analysis Tools 🛠️
-      🤔 What are static analysis tools, and how do they help developers write better code?
-      ⚙️ Provide an example of how these tools detect errors before execution.
+## 📚 Assignment Questions  
 
-      4️⃣ Benefits of Static Analysis Tools 🌟
-      ✅ List two major benefits of using static analysis tools in software development.
-      💡 How do these benefits impact the overall software development lifecycle?
+### 1. What is static testing, and why is it important in software development?  
 
-      5️⃣ Name That Tool! 🏆
-      🛠️ Mention two popular static analysis tools and briefly describe their key features.
-      🚀 Which tool would you personally prefer, and why?
+### 2. Differentiate between walkthroughs, technical reviews, and inspections. How do they help in static testing?  
 
-📌 Reminder: Write your answers in answers.md, commit your changes, and push them to the repository! 🚀
+### 3. What are static analysis tools, and how do they improve software quality?  
+
+### 4. Mention two benefits of using static analysis tools in software development.  
+
+### 5. List two popular static analysis tools and briefly describe their key features.  
+
+---
+
+Happy Learning🚀  
+
+---
