@@ -1,26 +1,25 @@
-                                                                    Week 3: 🔎 Static Testing Techniques
+Week 3: 🔎 Static Testing Technologies 
 
-
-                                                                        🎯 Learning Objectives
+🎯 Learning Objectives
 
 ✅ Understand the concept of static testing and its importance in software development.
 🔍 Differentiate between walkthroughs, technical reviews, and inspections and how they improve code quality.
 🛠️ Explore static analysis tools and their role in detecting defects early.
 
 
-                                                                        📋 What You'll Need
+     📋 What You'll Need
 💻 A computer with internet access.
 ✍️ A text editor (e.g., Visual Studio Code).
 🖥️ Any static analysis tool of your choice (e.g., SonarQube, ESLint).
 
-                                                                        📝 Submission Instructions
+       📝 Submission Instructions
 📂 Navigate to the repository and locate the answers.md file.
 🖋️ Write your answers directly in answers.md, ensuring clarity and completeness.
 🔄 Review your work before submission.
 📤 Push your changes to the repository.
 
 
-                                                                      📚 Assignment Questions
+         📚 Assignment Questions
       1️⃣ What is Static Testing? 🧐
       👉 Explain static testing in your own words and why it’s an essential part of software development.
       💡 Can you think of real-world scenarios where static testing prevents major issues?
