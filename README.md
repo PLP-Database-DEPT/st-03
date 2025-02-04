@@ -1,7 +1,3 @@
-Sure! Here’s the revised version of your assignment following the template you provided. I've updated the learning objectives to align with the focus on static testing techniques:
-
----
-
 # 📝 Assignment: Static Testing Techniques
 
 ## 🎯 Learning Objectives  
